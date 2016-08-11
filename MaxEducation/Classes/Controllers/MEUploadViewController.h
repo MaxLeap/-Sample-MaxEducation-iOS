@@ -1,0 +1,15 @@
+//
+//  MEUploadViewController.h
+//  MaxEducation
+//
+//  Created by luomeng on 16/6/7.
+//  Copyright © 2016年 MaxLeap. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MEUploadViewController : UIViewController
+@property (nonatomic, assign) MLObject *courseGroup;
+@end
+
+
